@@ -31,6 +31,7 @@ After providing the necessary information, I am sharing the project report and c
 - Graphically displaying member distribution by city (using ZedGraph component)
 - Creating installation files (setup, install files) with Install Shield to allow program installation on a computer
 
+![image](https://github.com/user-attachments/assets/d6e46393-8f8c-4dae-b5e6-a4944c7fa3d9) 
 
 ## Installation
 1. Clone the project:
